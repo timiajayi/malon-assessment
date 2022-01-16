@@ -131,3 +131,14 @@ border: 1px solid #C1BBBB;
 box-sizing: border-box;
 }
 }
+ @media screen and (max-width: 800px) {
+  .text, .digital {
+Font-size:16px;
+}
+}
+
+ @media screen and (max-width: 800px) {
+  . {
+
+}
+}
