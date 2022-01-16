@@ -139,9 +139,7 @@ Font-size:16px;
 
  @media screen and (max-width:620px) {
   .bike{
-
-float:left;
-  width: 100%;
+width: 100%;
   margin-top: 7px;
 }
 }
