@@ -86,3 +86,6 @@ box-sizing: border-box;
 .form-control :hover{
     border: 1px solid #3751FE;  
 }
+::placeholder{
+
+}
