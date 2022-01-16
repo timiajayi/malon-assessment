@@ -91,7 +91,7 @@ box-sizing: border-box;
 
 margin:0;
 display:block;
-Position relative;
+Position: absolute ;
 Top:5px;
 Left:9px;
 Font-size:20px;
@@ -107,11 +107,11 @@ margin-left:11%;
 margin-left: 12%;
 }
 .col4{
-margin-left: 13% ;
+margin-left: 15% ;
 }
 .col6{
 margin-left:0;
 }
 .col7{
-margin-left: 25% ;
+margin-left: 20% ;
 }
