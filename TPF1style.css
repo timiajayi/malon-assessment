@@ -1,0 +1,79 @@
+body{
+    background-color: white;
+    padding: 15px;
+}
+
+.container-fluid{
+    background-color: orangered;
+    color: white;
+    padding: 20px;
+    font-size: 8px;
+   
+}
+.container-fluid a{
+    color: white;
+}
+.adm{
+    padding: 40px;
+    font-size: 10px;
+}
+
+.container span{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+}
+.container p{
+    padding-top: 40px;
+    font-size: 8px;
+}
+.article{
+    background-image: url("assets/img/fashionground.jpg");
+ background-repeat: no-repeat;
+ object-fit: cover;
+ background-size: cover;
+
+ color: white;
+}
+.imgtext{
+    padding: 20px;
+}
+
+.rotate {
+    white-space: nowrap;
+    
+    position: absolute;
+    top: 300px;
+    left: 90%;
+    transform: rotate(270deg);
+}
+
+    .rotate div  span {
+        
+        color: white;
+        font-size: 11px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      border-bottom: 1px solid #ccc;
+      padding: 5px 10px;
+    }
+    .article2{
+        background-color: purple;
+        color: white;
+        padding: 70px;
+        
+    }
+  .article2 a {
+    border-bottom: 1px solid blue; 
+  }
+  .section2{
+      padding: 10px;
+  }
+  .sidimg{
+    background-image: url("assets/img/fashionground4.jpg");
+ background-repeat: no-repeat;
+ object-fit: cover;
+ background-size: cover;
+ background-position:left ;
+ padding: 10px;
+ height: 500px;
+ 
+  }

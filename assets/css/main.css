@@ -1,0 +1,86 @@
+body, html{
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+.bike{
+    background-image: url("/assets/img/back2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;    
+ height: 106%;
+background-color: black;
+}
+.bike p{
+    position: relative;
+}
+.digital{
+    color: #3751FE;
+    font-family: Roboto;
+    font-size: 30px;
+}
+.btn{
+    border: 1px outset #3751FE;
+    border-radius: 1px;
+    height: 54px;
+    width: 129px;
+    color: #3751FE;
+    font-size: 18px;
+    font-family: Verdana,Roboto, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color:#3751FE;
+    color: #FFFFFF;
+}
+.text{
+    color: #3751FE;
+    /* padding-top: 10px; */
+    font-family: "open Sans";
+    font-size: 36px;
+}
+.form-group{
+    color: purple;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.cont{
+
+    margin-top: 5%;
+    margin-left: 10%;
+ }
+li{
+    font-size: 15px;
+ font-family: sans-serif;
+    color: blue;
+    display: inline;
+}
+li:hover{
+    color:black;
+}
+.text-secondary{
+width: 362px;
+height: 21px;
+left: 86px;
+top: 366px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+color: rgba(0, 0, 0, 0.6);
+}
+
+.form-control{
+    width: 554px;
+    height: 74px;
+    border-radius: 1px;
+    background: #FFFFFF;
+border: 1px solid #C1BBBB;
+box-sizing: border-box;
+
+}
+.form-control :hover{
+    border: 1px solid #3751FE;  
+}
