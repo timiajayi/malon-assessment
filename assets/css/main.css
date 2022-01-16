@@ -88,6 +88,13 @@ box-sizing: border-box;
 }
 ::placeholder{
 
+margin:0;
+display:block;
+Position: absolute;
+Top:5pm;
+Left:9pm;
+Font-size:20px;
+
 }
 .col1{
 margin-left:20% ;
