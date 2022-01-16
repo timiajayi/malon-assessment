@@ -21,7 +21,7 @@ background-color: black;
     font-family: Roboto;
     font-size: 30px;
 }
-.btn{
+.btn-outline{
     border: 1px outset #3751FE;
     border-radius: 1px;
     height: 54px;
