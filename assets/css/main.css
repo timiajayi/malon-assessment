@@ -140,7 +140,7 @@ Font-size:16px;
  @media screen and (max-width:620px) {
   .bike{
 width: 100%;
-  margin-top: 7px;
+ Paddin:50px;
 }
 }
 @media screen and (max-width:620px) {
