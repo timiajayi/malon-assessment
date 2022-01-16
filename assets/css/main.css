@@ -21,15 +21,18 @@ background-color: black;
     font-family: Roboto;
     font-size: 30px;
 }
-.btn-outline{
+.btn{
     border: 1px outset #3751FE;
     border-radius: 1px;
     height: 54px;
     width: 129px;
-    color: #3751FE;
     font-size: 18px;
     font-family: Verdana,Roboto, Geneva, Tahoma, sans-serif;
     cursor: pointer;
+}
+.btn-outline{
+color: #3751FE;
+
 }
 .btn:hover{
     background-color:#3751FE;
