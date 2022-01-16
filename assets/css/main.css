@@ -90,14 +90,14 @@ box-sizing: border-box;
 
 }
 .col1{
-margin-left:20px ;
+margin-left:20% ;
 }
 .col2{
-margin-left:40px;
+margin-left:30%;
 }
 .col3{
-margin-left: 60px;
+margin-left: 40%;
 }
 .col4{
-margin-left: 80px ;
+margin-left: 50% ;
 }
