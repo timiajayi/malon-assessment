@@ -151,8 +151,9 @@ Font-size:10px;
 }
 }
 @media screen and (max-width:620px) {
-  .bike{
-Width:100%;
+  .cont{
+Border-radius:1px;
+Border:2px;
 
 }
 }
