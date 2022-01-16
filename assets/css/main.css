@@ -13,6 +13,12 @@ body, html{
 Width:100%
 background-color: black;
 }
+
+@media screen and (max-width: 800px) {
+  .bike {
+Height:53%;
+    width: 50%; 
+
 .bike p{
     position: relative;
 }
