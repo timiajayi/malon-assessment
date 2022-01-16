@@ -14,11 +14,6 @@ Width:100%
 background-color: black;
 }
 
-@media screen and (max-width: 800px) {
-  .bike, .form-control {
-    width: 50%; 
-}
-}
 .bike p{
     position: relative;
 }
@@ -123,4 +118,9 @@ margin-left:0;
 }
 .col7{
 margin-left: 50% ;
+}
+@media screen and (max-width: 800px) {
+  .bike, .form-control {
+    width: 50%; 
+}
 }
