@@ -76,7 +76,9 @@ color: rgba(0, 0, 0, 0.6);
     width: 554px;
     height: 74px;
     border-radius: 1px;
+border-left:2px;
     background: #FFFFFF;
+
 border: 1px solid #C1BBBB;
 box-sizing: border-box;
 
