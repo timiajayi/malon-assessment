@@ -140,8 +140,9 @@ Font-size:16px;
  @media screen and (max-width: 800px) {
   .bike{
 
-float: left;
-  width: 20%;
+float: center;
+  width: 50%;
+Height:50%
   padding: 15px;
   margin-top: 7px;
 }
