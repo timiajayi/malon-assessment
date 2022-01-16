@@ -15,8 +15,7 @@ background-color: black;
 }
 
 @media screen and (max-width: 800px) {
-  .bike {
-Height:53%;
+  .bike, .form-control {
     width: 50%; 
 }
 }
