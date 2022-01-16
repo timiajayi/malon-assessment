@@ -139,8 +139,15 @@ Font-size:16px;
 }
 
  @media screen and (max-width:620px) {
-  .bike{
-width: 100%;
+  ::placeholder{
+
+margin:0;
+display:block;
+Position: absolute ;
+Top:2px;
+Left:3px;
+Font-size:5px;
+
 }
 }
 @media screen and (max-width:620px) {
