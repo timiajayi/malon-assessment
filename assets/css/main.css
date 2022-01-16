@@ -132,7 +132,7 @@ box-sizing: border-box;
 }
 }
  @media screen and (max-width: 800px) {
-  .text, .digital {
+  .text, .digital, .text-secondary,.btn {
 Font-size:16px;
 }
 }
