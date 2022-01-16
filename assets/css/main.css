@@ -137,16 +137,16 @@ Font-size:16px;
 }
 }
 
- @media screen and (max-width: 800px) {
+ @media screen and (max-width:620px) {
   .bike{
 
 float:left;
-  width: 50%;
+  width: 100%;
   padding: 15px;
   margin-top: 7px;
 }
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width:620px) {
   . {
 
 }
