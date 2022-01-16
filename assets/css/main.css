@@ -150,12 +150,3 @@ Font-size:10px;
 
 }
 }
-@media screen and (max-width:620px) {
-  .cont{
-Border-radius:1px;
-Border:2px;
-Height:500px;
-Width:auto;
-
-}
-}
