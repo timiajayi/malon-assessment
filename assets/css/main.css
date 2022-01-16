@@ -19,7 +19,7 @@ background-color: black;
 .digital{
     color: #3751FE;
     font-family: Roboto;
-    font-size: 30vw;
+    font-size: 30px;
 }
 .btn{
     border: 1px outset #3751FE;
@@ -42,7 +42,7 @@ color: #3751FE;
     color: #3751FE;
     /* padding-top: 10px; */
     font-family: "open Sans";
-    font-size: 36vw;
+    font-size: 36px;
 }
 .form-group{
     color: purple;
